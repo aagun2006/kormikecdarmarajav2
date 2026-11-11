@@ -1,0 +1,10 @@
+{
+  "name": "LAPORAN SENAM KORMI DARMARAJA V.2",
+  "description": "Aplikasi web pencatatan, monitoring, dokumentasi, dan analisis kegiatan senam KORMI Kecamatan Darmaraja",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
